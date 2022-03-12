@@ -1,0 +1,22 @@
+{
+  "name": "dockerexpressexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalaluka/DockerExpressExample.git"
+  },
+  "author": "Lalaluka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lalaluka/DockerExpressExample/issues"
+  },
+  "homepage": "https://github.com/Lalaluka/DockerExpressExample#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
