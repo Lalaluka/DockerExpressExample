@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "startMock": "json-server"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/Lalaluka/DockerExpressExample#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "json-server": "^0.17.0"
   }
 }
